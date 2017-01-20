@@ -2,3 +2,4 @@ boto==2.42.0
 celery==3.1.24
 redis==2.10.5
 airflow[mysql,celery,crypto,redis,s3,password]==1.7.1.3
+docker-py==1.10.6
